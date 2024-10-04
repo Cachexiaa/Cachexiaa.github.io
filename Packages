@@ -390,6 +390,23 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.34306.mineland
+Architecture: iphoneos-arm64
+Version: 2.1-4+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/Rootless/com.34306.mineland_2.1_rootless_iphoneos-arm64.deb
+Size: 49044
+MD5sum: 6420b16f39fa4cca156a89660faabcbc
+SHA1: b0f361827d080c0d1c63ab0ce97f7e2eb958745f
+SHA256: 2303cac380267bde83f38ea397ba3f3a128d31af7198b133476fc8fd7ec4a215
+SHA512: b413c0a103801b844abcdfc6ece77eaffa9dd47228953d3f84f655631cbbdd89652bfb6c5c2a4212a4a58ca408b8c6c463f6bc29c75804251180ea7b51a363fc
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Name: mineland
+Author: 34306, DuyKhanhTran
+
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.3-5+debug
@@ -514,6 +531,23 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.ethxnn88.visibleisland
+Architecture: iphoneos-arm64
+Version: 1.1-b1
+Section: Tweaks
+Maintainer: ethxnn88
+Installed-Size: 344
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: ./debians/Rootless/com.ethxnn88.visibleisland_1.1-b1_iphoneos-arm64.deb
+Size: 24260
+MD5sum: 77ea60a74baa549cf3f9514a41958805
+SHA1: 10bfca68ae1be7ead7ac2b808b543c359b305fbf
+SHA256: 4ad7522d4ac13a6ad214fefb89fd69ff91ec6db11514fba82e0e21574c7bb3ad
+SHA512: 97eba38ec6a25ca3ccd661a9ef398c8880653b0efad879ec327207acc82a9076f13638eda2077341b9fcbf61d489a3023384ab0160810febf61934e22cb17656
+Description: Enable and fix Dynamic Island on older devices.
+Name: VisibleIsland
+Author: ethxnn88
 
 Package: com.parrotgeek.globalize
 Architecture: iphoneos-arm64
