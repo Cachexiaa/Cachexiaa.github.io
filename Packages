@@ -1,3 +1,71 @@
+Package: com.34306.messed
+Architecture: iphoneos-arm
+Version: 3.1
+Maintainer: Little 34306
+Installed-Size: 2440
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.34306.messed_3.1_iphoneos-arm.deb
+Size: 294000
+MD5sum: 698a4eaee7072ee4a8cb67886b62d2f5
+SHA1: 963bf4658d5ea6d06eae01401a471efaaef6696d
+SHA256: 49738580c0e45489b251d1af9150427869ca13e8d79987a4b091e4f87eec14ab
+SHA512: 797542381c99035738085ed35e0d5a33ade8ae065af507a7cb33d384182c17e88f7cf50cf198dd3892386cca3ed90fe373f92ce610c40872918a47e345b285ec
+Description: Messed, Messenger with No Ads and No seen.
+Name: Messed
+Author: 34306
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
+
+Package: com.34306.messed
+Architecture: iphoneos-arm
+Version: 3.2
+Maintainer: Little 34306
+Installed-Size: 2440
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.34306.messed_3.2_iphoneos-arm.deb
+Size: 296200
+MD5sum: 907aa8aa34ceef30b4cd174f05bdf3cd
+SHA1: 9b99abb59bbfb0d9dc5d808d1cd682333f42b178
+SHA256: 01e48b1540bf926ccdc31f77413323cfa09cf3fa0749a23769f3b1c8187e68b5
+SHA512: 7852ed38749bad954904c90d395f384551eb972e6f34ee4b4ca75502c80ced5ada12b13c20371ead35e99b4073330e49ff67bcaa019d8a05e7f75178dee612f2
+Description: Messed, Messenger with No Ads and No seen.
+Name: Messed
+Author: 34306
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/messed.png
+
+Package: com.34306.mineland
+Architecture: iphoneos-arm
+Version: 2.1-5+debug
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 360
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.0)
+Filename: ./debians/Rootful/com.34306.mineland_2.1_rootful_iphoneos-arm.deb
+Size: 49036
+MD5sum: e6ba0182ab1e8cbd473dc448ecb50b2f
+SHA1: efece4795e7310e2acc45b44a6e221172362b340
+SHA256: 0f1495328a1537b4dd83517c309b354721ac6f5f4304f59436408f91e537b244
+SHA512: 90ae79a386b88c925e1daf929b6e87998849d7c32ee7a3120af2a103cb786d40824823f9794c38eccd7af8f5a14406a81dfe15368078338ad8492a6dbeedb313
+Description: Lower your Dynamic Island and make it disappear if you don't need it. All the original code is from KhanhDuyTran (@TranKha50277352)
+Name: mineland
+Author: 34306, DuyKhanhTran
+
+Package: com.34306.watched
+Architecture: iphoneos-arm
+Version: 1.2-1
+Section: Tweaks
+Maintainer: 34306
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debians/Rootful/com.34306.watched_1.2-1_iphoneos-arm.deb
+Size: 4668
+MD5sum: 5ffd4ff5c727d8e0381070971cbb5c35
+SHA1: 1ca0d36068bc89f96c62e52ea05cbf4a9e29ddd8
+SHA256: 54404049d41b715fb70aa13c636393d0db38a917aba1c67852484183b10c2775
+SHA512: c38b7490ad6d2705bb063529fcd239cd1a590a7fae99662ce0209ba08ababee824ee84afa96d831205206ce071063470c58c48a93fbbfb88b980ebb2e96053a8
+Description: Pair your iPhone on any version with your WatchOS .
+Name: watched
+Author: 34306
+
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm
 Version: 4.3-5+debug
@@ -31,6 +99,59 @@ Description: More features for TikTok
 Name: BHTikTok Plus
 Author: Bandar Alruwaili
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.showmytouches_0.0.1_iphoneos-arm.deb
+Size: 24476
+MD5sum: 0d40e48e2958f9247f99d68b7aa2ae55
+SHA1: 3287543cffd6fb20e17b9a9ca4dd89ae9001b69f
+SHA256: 3160e347ab086c7a964457f49637e6a044341a85353d05a22109beb8e4de7657
+SHA512: 8cf67b11a31ecdf6b1e6094455d1fd9184b1c9b6df3b57f8872b98fdb04565dd160e92502d3ff3f6e822641aaa46613b52ff98f434c9b6e565c294a2a6585a99
+Description: An awesome MobileSubstrate tweak!
+Name: ShowMyTouches
+Author: dvntm
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 448
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.showmytouches_1.0_iphoneos-arm.deb
+Size: 49900
+MD5sum: fa6e62851826a04fd28a6d1976735ab5
+SHA1: d8f091151f2499bb380863374c86515091dfd6b1
+SHA256: 2183e966d94a04e0e29e7415326ce0a14ce470bef50d834dca6e478cce13542f
+SHA512: f2f195f17ea793d9a7f43047094ab7d53b8b1cd987108c865420c9f2419e994ceba93c488722bc3793b40bdbd77b3fc968ffa727f0670ca31cae0af8d9dd1b97
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.shmoopillc.showmytouch.png&s=180x180&f=webp
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 456
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.showmytouches_1.1_iphoneos-arm.deb
+Size: 52118
+MD5sum: 12ce21a4f116db2ec7945fb89154e26a
+SHA1: 2a56d2af5f370df58b6e16d24f8ea552b0a24e10
+SHA256: 1f608eec2fcbb360c5e55e94db7d3b1bdc2c2eb0ca9fdae2b0017492df816374
+SHA512: 13ff0d8c49a1a8fc5d709009708a42346743474226ba355f401f6c1618e5bce72e9feaab218b09c29110d1d0de1db408204acdaf1a26b092e4976e294fdad01f
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
 
 Package: com.dvntm.silentnotifs
 Architecture: iphoneos-arm
