@@ -1,0 +1,68 @@
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm
+Version: 4.3-5+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootful/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm.deb
+Size: 1031740
+MD5sum: 23522c4a2f12c89022c79e096c67efe5
+SHA1: 4ad246d242dd64103a924a3a07219e354c5a5757
+SHA256: 1a7e6dcb1df1147238ff9d4d18e05caeb9f646bb877457ab3fb6ef84c0728d6a
+SHA512: 07ed5707af434b8eb9203de4d28e3281d7e07aa02fa695b632220ea3f31f0c7903563d52052ced06fc03335600d6f719f913fce0aff6c6e48674995f17b82c3e
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
+Package: com.daynch96.bhtiktok
+Architecture: iphoneos-arm
+Version: 2.3
+Section: Tweaks
+Maintainer: Dayanch96
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.daynch96.bhtiktok_2.3_iphoneos-arm.deb
+Size: 475668
+MD5sum: d92518faac1a6fd64d6f5b03bc0575b7
+SHA1: 207964b1fe812b4898927328c8b328ec614c04e4
+SHA256: cc7d60a10a606f83d6f6da7959017a9a3fd6a76642ad80f2c1d09184b4a22086
+SHA512: 6fb839b9d8986dfa88f35b194ee5980623426ef875f9e61475cf714f0d9c75362ba19bbaddfbae21b9c76041320a640e56862e75d85abf64d10a76427185a508
+Description: More features for TikTok
+Name: BHTikTok Plus
+Author: Bandar Alruwaili
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.3-5+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootless/com.bandarhl.bhtwitter_4.3-5+debug_iphoneos-arm64.deb
+Size: 1533684
+MD5sum: 8577c7b9a31a23aba2a48bb87898b38d
+SHA1: 6d6fcff8ccbb55fefffc561672c26a7d521604d5
+SHA256: 9440749414f3f14f059dc74733f87a8abe2c749baf64c867c2305623d8bde2be
+SHA512: 32a49d5b7679bb42491ecfa72e9964bd315c519374d702041e87541f85b02a8291cc5159be53ddaeddd524a3b9ef2bd4242be0a3b61e090594716d234d4f9fbd
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
+Package: com.daynch96.bhtiktok
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: Dayanch96
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.daynch96.bhtiktok_2.3_iphoneos-arm64.deb
+Size: 482144
+MD5sum: d86d670049360b64a57140c99a752309
+SHA1: b5380cfa175ba512142e278b23068dc670835092
+SHA256: 001f033a81fe7a7d54630e946e7b6ecfc98a0f3bec57cef6cfc3644d255f3060
+SHA512: 5626f598ea253ce3bb5772cd1cc23a56d222bf7254473932ebbb39e173062627f930040da24cff91296fe4d5ed07f18fbe29506e9b3d1ee51204bb0254935e79
+Description: More features for TikTok
+Name: BHTikTok Plus
+Author: Bandar Alruwaili
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
+
