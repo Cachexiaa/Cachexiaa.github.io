@@ -32,6 +32,40 @@ Name: BHTikTok Plus
 Author: Bandar Alruwaili
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
 
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.silentnotifs_0.0.1_iphoneos-arm.deb
+Size: 3398
+MD5sum: f41aba98e56ea032bb55f8c9ce4bfe06
+SHA1: ce2f99292da86fe182cfcf7bf028344fc1ab831a
+SHA256: 72a8e50b92d161c12b01b85738ca58ad211b536e1021c7e21044d2beba7f4236
+SHA512: 0e6f44a9df417bf5cbf24cf12a50ae1d3627eb8ce2d619bdbf7932dc1592e5104f40a1c47ba2e44871f924101fd12e3cf0c2d02f5b6e3bf0feefba85c288a708
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootful/com.dvntm.silentnotifs_0.0.2_iphoneos-arm.deb
+Size: 3572
+MD5sum: ca7db84453f1ec76b3663d6965e0ade0
+SHA1: 23787af0d3b0aad6ec8435609bb0c4651a9f724a
+SHA256: eda0a189a4baa47d8ca327d25660d81b2995e763b565b5691c378a7ee454fc90
+SHA512: f251ca5284b13c6a162dc552531819bc2031fa7ce47fad3129f4a2a47e24f48b6a66335624c67d8982e74a2cd2abbaede76cbe2bd484141986b73d07e3e8c84a
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
 Version: 5.0.1
@@ -89,6 +123,24 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.parrotgeek.globalize
+Architecture: iphoneos-arm
+Version: 0.3.2
+Section: Tweaks
+Maintainer: parrotgeek1
+Installed-Size: 440
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: ./debians/Rootful/com.parrotgeek.globalize_0.3.2_iphoneos-arm.deb
+Size: 5272
+MD5sum: 5516746c906c5e9c23803f5d468157cc
+SHA1: 4d35aa3569e4e8d18683315c6a5877b221e4f452
+SHA256: f8869072990c0c288334ed1fd65d0a8e3a55467e9de0d92d23e3472e98d08aa4
+SHA512: 27359f6d608e28ea9d65b3fcc14565e4bb271d63b8e376a86cc8fa77561ca7ccb8a39cf1d3dbbac2c24a1a29e1cfffef947e0d10cfd4ab85594311f9113ace55
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Name: Globalize
+Author: parrotgeek1
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
+
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.3-5+debug
@@ -122,6 +174,40 @@ Description: More features for TikTok
 Name: BHTikTok Plus
 Author: Bandar Alruwaili
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.silentnotifs_0.0.1_iphoneos-arm64.deb
+Size: 3478
+MD5sum: 4da4fa572e8ffaf09ec04457b69e7227
+SHA1: a2236c59566d978dc3a0d07579083cc867119136
+SHA256: 3db9f3ea66aa8cd6f616a57f089dbb0f6444ad7c75898ceba0fca3647395dcd3
+SHA512: ca49fdb963cad02c497ae5898637b5dd2a39631b0b786e0b3d8d9beb86cb62cff0504cfc2c3a34dda23c17e4b92253287074c4222dcc3731a09de5ee85b9fab8
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Rootless/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64.deb
+Size: 3662
+MD5sum: 38ad559e9ac9740ef30214da4eaa7a00
+SHA1: 002eb290de9e0aa601009580bc0f867bdcd9088f
+SHA256: 99196a6cb4129d2ebaff2580d6bd019628318f82a7d8c78b1e4ae3c24ef31a8a
+SHA512: f0265105e37861a75409321b73d280e48ac1c3eca3772421e3e172b824802d399ce14268c40eda6db657abb3811e7a392eb432fdb3db237ec96e05cde12468b5
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
@@ -179,4 +265,22 @@ Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.parrotgeek.globalize
+Architecture: iphoneos-arm64
+Version: 0.3.2
+Section: Tweaks
+Maintainer: parrotgeek1
+Installed-Size: 440
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: ./debians/Rootless/com.parrotgeek.globalize_0.3.2_iphoneos-arm64.deb
+Size: 6036
+MD5sum: e87f2c0525ed556d4c53ccd84e577504
+SHA1: ba44bec3a5fce7de511e8beccb295a5f67df1364
+SHA256: 34283bad5ec8a2e1bef5ab890837065398a963e92c7c9d5cfb173aad19cf714b
+SHA512: 3669b0117194e716fce6e83892fc3c750f5893c062f98568327da8ee4069e08191c80185b926b67c2bb9587a5b5f33b6d4167d5d92f42ec7abf19f55f9897fc7
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Name: Globalize
+Author: parrotgeek1
+Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
 
