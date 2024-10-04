@@ -32,6 +32,63 @@ Name: BHTikTok Plus
 Author: Bandar Alruwaili
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
 
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm
+Version: 5.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16092
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.dvntm.ytlite_5.0.1_iphoneos-arm.deb
+Size: 6016824
+MD5sum: bc0ebc96364d9c40bcd7820cb2506bfa
+SHA1: 3d6a41a5e2a1be0219fff0076b0d8ec72c285eee
+SHA256: d9b2ddf7c9bff62204e5dfa6b5c27413ecf3df9653297edea3391b0ef5de7a19
+SHA512: f23130cd0c57ab14eb76f915fa3085b2b041d86db1f4bfe621e0ebb872a3cc993f5fd6d5e9f7b4938eb1b264bdff5399dc053ab4268cea70fa1e26fad4058f33
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm
+Version: 5.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.dvntm.ytlite_5.0.2_iphoneos-arm.deb
+Size: 6020036
+MD5sum: df5f7c066644c029f0daed8c92f42501
+SHA1: a524a51341e136a7eb75804b88fc95b010cf0769
+SHA256: 9aca0d1cb88004a18623ba84b784d5bfd0815bfcf94660a3ed45b890360b2978
+SHA512: 1fc31da35565953487de83060b0af6a286a232975fdc821b45891742c591efcbc20119783a0c1e842f828c9c1e66e512aa7dee2b1c04661f453e9cf1dd3ad892
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm
+Version: 5.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16088
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.dvntm.ytlite_5.0_iphoneos-arm.deb
+Size: 6007268
+MD5sum: 4a47bc629ad003696f7ea7c4895c816a
+SHA1: 105eae439ed7c85d1ec96acd605cf4c12fb8b095
+SHA256: d6be76939fa27ea48dbde4aa003d2f365bab04ebca015c470fc65817ef02590d
+SHA512: 06e9f92999c6732cf4c7b25ba68b70f9bfcee2fc7bac345120c78bbfcb89e34ea1db8eb3e4467a9cd966ee81cc527ab7f72f976776f3b1a8f25d0aa3ce7ed2bf
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.3-5+debug
@@ -65,4 +122,61 @@ Description: More features for TikTok
 Name: BHTikTok Plus
 Author: Bandar Alruwaili
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64
+Version: 5.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16092
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.ytlite_5.0.1_iphoneos-arm64.deb
+Size: 6084934
+MD5sum: 80023662089602b689ba52119202f14a
+SHA1: 42001f9b82f9bcfb3ddd9aa7254bb235d257de67
+SHA256: 2c7acf387a66361e6ace5b3923cacc1e8fc7b3facd8419a57337545bfe19c2f0
+SHA512: 057527fb5dc33b5103e16d60b61ef6dd38c3f1b2242796ac2202eb3735ca45ef101e31d3edf2d469f10ec19be54250560e81d4fd3131a98eaa3c39bd074ca1d2
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64
+Version: 5.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16140
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.ytlite_5.0.2_iphoneos-arm64.deb
+Size: 6099626
+MD5sum: 0e980aabb1450344e5c83059d4015d6c
+SHA1: 51a039c64fc396cb18bfa31be88087f140ee8616
+SHA256: 7fa04949c8c7bb0ab2181c47da8392c877d7a702cd871e8cccd7cab297e132e7
+SHA512: 91378bec9d297d4f2c4eeaa149ba6b4addb644ec245da3203a48cbcc95c6ff427e2136627223ef68865b980b352f1c54ef3df3621f1895c54cfa712e24422943
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64
+Version: 5.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16088
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.ytlite_5.0_iphoneos-arm64.deb
+Size: 6082342
+MD5sum: b64c5f0fa8f80a462c56bb57c402dfea
+SHA1: e4bb3789d2191c54e93b94ea5495addac0e40b55
+SHA256: 18136bd45cba62699fc1e14ac910fa17ebf33cf3a9f338e19f90f89e586605db
+SHA512: 30c0c5b03cdf080a650bcaccb78cc00a7402f0c7ebfeb74b18d25cef568992d41c5d4b40344e6f013efc9d54faae603913148b5e2cf98ba4bd3aa1b662cd3066
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
