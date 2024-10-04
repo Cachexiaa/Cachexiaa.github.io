@@ -141,6 +141,23 @@ Name: Globalize
 Author: parrotgeek1
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
 
+Package: com.socuul.scinsta
+Architecture: iphoneos-arm
+Version: 0.6.0-1+debug
+Section: Tweaks
+Maintainer: SoCuul
+Installed-Size: 3136
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootful/com.socuul.scinsta_0.6.0-1+debug_iphoneos-arm.deb
+Size: 673428
+MD5sum: ef3b1229d5b240b4c34ee8104daa149e
+SHA1: b5c8df69015dbd925995c1e55c1b3cd6585f44ab
+SHA256: 8359405b6b8c4f777362b32291367774fa69cd2ee06375ba9d1ed44ecdc7c081
+SHA512: d1a8cfcb871f0dde609417d2c7a3feb914e2b2fe76d38a5772e9658115a5d86ba480e84a7e222f832fda2e769a68b371dcb3624e602f85736ce0f26fb2ecb4bb
+Description: A feature-rich tweak for Instagram on iOS!
+Name: SCInsta
+Author: SoCuul
+
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.3-5+debug
@@ -283,4 +300,21 @@ Description: Disables almost all region differences/restrictions on iOS devices.
 Name: Globalize
 Author: parrotgeek1
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fapi.ios-repo-updates.com%2Fimages%2Frepositories%2Fparrotgeek-software.png&s=150x150&f=webp
+
+Package: com.socuul.scinsta
+Architecture: iphoneos-arm64
+Version: 0.6.0-1+debug
+Section: Tweaks
+Maintainer: SoCuul
+Installed-Size: 3136
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debians/Rootless/com.socuul.scinsta_0.6.0-1+debug_iphoneos-arm64.deb
+Size: 769336
+MD5sum: 09b05c55810d15d34c69903a23fab348
+SHA1: 432dba18fc67a62ad62bc42384f076b62b876c5e
+SHA256: 3474355fc9cb5239a036743f0e5a2764a0c61dfcdc31be6c8af87602c4e4ab2e
+SHA512: 56e5c687e871729d6a9e4f0db23c319cfc503e5698675b6f07905a86c94015a34e2213c26d1d03c6925c3fbb1f257e41ffa5423d00e8ee55051cded964e68244
+Description: A feature-rich tweak for Instagram on iOS!
+Name: SCInsta
+Author: SoCuul
 
