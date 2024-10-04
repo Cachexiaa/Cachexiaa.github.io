@@ -158,6 +158,117 @@ Description: A feature-rich tweak for Instagram on iOS!
 Name: SCInsta
 Author: SoCuul
 
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.silentnotifs_0.0.1_iphoneos-arm64e.deb
+Size: 3410
+MD5sum: ef2a51d4c161f59d44b37636eaf60fa7
+SHA1: 41f76734dbdc469f72c5f4885b5f80aa4e3fca0d
+SHA256: 566d933d22c91c80b1b7f30920e9a89b4ca060bd683ae28e2bdd4b2b4f506d81
+SHA512: 03951650e4499d98958ff044e2f86371f262f4b3717271977889096a27e7a0e0c50c9ca6ea8cbecd960de140aec5bf92e1aa453d3f8bbb726b986432fafaae8f
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/Roothide/com.dvntm.silentnotifs_0.0.2_iphoneos-arm64e.deb
+Size: 3592
+MD5sum: f8865dcdafe66237508242f2c58be844
+SHA1: c16c450777613e888c6f95398d101e34fa4e82c0
+SHA256: af274673b2adb3d7d8ce76173e9fdb8d0b82fb81b5709491838f38b41a7380a3
+SHA512: 089c585d89eb35af28becd51c75fc84d590ef4a7b6a35ef060520e09c9281ddecae3d8def3c13482191fd742f890c9d40e5f9e3d03af1c015b3666edc92ece02
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 4.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 15596
+Pre-Depends: rootless-compat (>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.ytlite_4.0.1_iphoneos-arm64e.deb
+Size: 11572960
+MD5sum: d1f8d86cac67289e7759f57bfa852072
+SHA1: 7a0b66825697029383ea08a97d19f580fbd2fce7
+SHA256: e877baddb3c782d3f6d1c9d755636704d53f6f712ee3e2e636f90188c22c212c
+SHA512: 51a2b266e0ee5adcec36e383f5063f013e15efc9f89f775cb6a53af63c0ef5285adf34760f285166b8c9873d732287cf1158a7ccfd5407ba030be4ed4baaed03
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16092
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.ytlite_5.0.1_iphoneos-arm64e.deb
+Size: 6085536
+MD5sum: b9fd72fabbe71f5e0ecd91aabe90db91
+SHA1: ef1447aa786504e7e676d521c160c774c0b8c84e
+SHA256: 0545b643a39e9c54bebf0c50b441b59a6fc7b751de5e258ef7bf7470a6c2252b
+SHA512: 54143de4e120f9c9fad1e7127c121a90ccd49ed3acf67b11c9b5c122646b6b71567292fc24fc800b35d05c29736c6fb3ac4508f1aaaf6cd7eaf01fc7cdf4c46c
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16124
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.ytlite_5.0.2_iphoneos-arm64e.deb
+Size: 6099804
+MD5sum: 971dc6e215031ef7d4cf167f5b0c3944
+SHA1: 8e6c0645a3ae4684fe5258fbae33e4f8fb5ee399
+SHA256: eb3f94022e499fafe4c898e8f58c6da17c02f1d5c269761b1d1e19930c3409f5
+SHA512: 906286b93deb1df00be902a02a754317245beec3d1aed6716428552465a3d322db9595fc22ac03cfbff54dee33b6db95648b94ab20e7a6c176ce1def09044f6a
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.0
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16088
+Depends: mobilesubstrate
+Filename: ./debians/Roothide/com.dvntm.ytlite_5.0_iphoneos-arm64e.deb
+Size: 6086192
+MD5sum: 694bd17fe9a51762457c1c42c161b80c
+SHA1: 5dbd014fab9e230400b8eb1050d5a5df0f13cb66
+SHA256: ee7c8cf7a4d1cba60b244619436da519e43be2a8dd244abef7d1fc9204183415
+SHA512: c6365d9af82e5e8342c97cb0907a0338f60491dac6c045ef0cb24208fcf0b339b4dbebd30915b5907578ee4455158a979d7bfa7d185cd441830869cc709b3110
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
 Version: 4.3-5+debug
