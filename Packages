@@ -15,6 +15,24 @@ Description: ChargeLimiter
 Name: ChargeLimiter
 Author: chaoge
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm
+Version: 2.3
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootful/codes.aurora.kayoko_2.3_iphoneos-arm.deb
+Size: 118748
+MD5sum: 218509f5051b49b10fbd6bd546be44a8
+SHA1: 43f7b6869ea894bab936dce909cb8ebbe38f86d0
+SHA256: e28b1727dc41cfed6e6e260ec87d2ac867562fabfe6ceca690448a8e6c1e1885
+SHA512: cc815ada3271da0027cb17a972085f3fec115d33eeaee3929a06af35017c422903bfd7ae8384510a889c3beb73b57374648dbd7938c7b5890ff3bca1b1ecfa9c
+Description: The Best Free Clipboard manager for iOS iOS 16
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
+
 Package: com.34306.messed
 Architecture: iphoneos-arm
 Version: 3.1
@@ -1124,6 +1142,24 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm64e
+Version: 2.5-15
+Section: Packaging
+Maintainer: Amy While <me@anamy.gay>
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debians/Roothide/org.coolstar.sileo_2.5-15_iphoneos-arm64e 3.deb
+Size: 3929228
+MD5sum: 7605247dd81fb7d77afbe449ec62173a
+SHA1: cbe42f1577f90231bf454b9ffb06474eda4276fe
+SHA256: d7a0923125a1e1b7b49da87ea252a830cc40092dfbfd27404eff896c287a528e
+SHA512: ed9634c4bec7c88c806d7dc3dbf9d66dd55599b5e473c3b7b0ec4df954e8a2ef5b0786147ba91f0f0694caf28e8a59b8da1ede1fb9b2adc4ba7313bc6720249d
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Amy While <me@anamy.gay>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
 Package: chaoge.ChargeLimiter
 Architecture: iphoneos-arm64
 Version: 1.7
@@ -1140,6 +1176,24 @@ SHA512: e278a3cfdc2cb7b4c2903a4d0d756b9a93a6664b8ccb40f440c3595ad35b73236e314efc
 Description: ChargeLimiter
 Name: ChargeLimiter
 Author: chaoge
+
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 1076
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debians/Rootless/codes.aurora.kayoko_2.3_iphoneos-arm64.deb
+Size: 118924
+MD5sum: 0cf8fa6bd73e032d4aa2274b42dfc129
+SHA1: d71b57ce6500b0d85e9f2a350742dd8671a17a71
+SHA256: e22b7046238dceaf658c1af234c561179f96854d0f1a22eae4d24ce0cf071023
+SHA512: 5becb0a820448a675b8242b8e4c76a161ebc7d6dbe39a9a73d4f2bbfe94b88367de4b0a105ca19a7f391bd225d87328662369a8b152e6f3035373e966918afa4
+Description: The Best Free Clipboard manager for iOS iOS 16
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+Icon: file:///var/jb/Library/PreferenceBundles/KayokoPreferences.bundle/Icon@2x.png
 
 Package: com.34306.mineland
 Architecture: iphoneos-arm64
