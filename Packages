@@ -403,6 +403,23 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.gilshahar7.pearlretry
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: gilshahar7
+Installed-Size: 428
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm.deb
+Size: 22840
+MD5sum: 51e1e6e3a0f8d6ab288afcec79280fd2
+SHA1: 47552ca4f104025d9e3e960ec848203c5b48fbdf
+SHA256: 77af0a7713d2fd1e46d8eca495fb754053629d6d917b2faa91c95eb0e2eb2168
+SHA512: 3941210bedb84d921446614e643e2daa4a195b1f0c569cdd6ad8957733c1f4ea528f3d8f3a2d2073d88e98856a8f4c4c29c5b502bea3671b331986d8410e2532
+Description: Retry FaceID when failed to recognize.
+Name: PearlRetry
+Author: gilshahar7
+
 Package: com.lema.wolf
 Architecture: iphoneos-arm
 Version: 2.1
@@ -1477,6 +1494,23 @@ SHA512: 97eba38ec6a25ca3ccd661a9ef398c8880653b0efad879ec327207acc82a9076f13638ed
 Description: Enable and fix Dynamic Island on older devices.
 Name: VisibleIsland
 Author: ethxnn88
+
+Package: com.gilshahar7.pearlretry
+Architecture: iphoneos-arm64
+Version: 1.2.1
+Section: Tweaks
+Maintainer: gilshahar7
+Installed-Size: 428
+Depends: mobilesubstrate, emt.paisseon.xinamine (>= 0.0.5)
+Filename: ./debians/Rootless/com.gilshahar7.pearlretry_1.2.1_iphoneos-arm64.deb
+Size: 22980
+MD5sum: 3ce6d22d6f84f618559a198f2db484bf
+SHA1: 787b3f7431be1e272ecafd7639e6223659287111
+SHA256: 8ac5b9b7dc1b60ce24958532890064b62686bc1794be3dcfd2167143985ec196
+SHA512: acbb64582360b3ee378b7681286a6fa47f15b8a32c61cfba50314fdfccab1c8bd76f49c354727c791a2806f59d1d54eb504ee7b72c682ec75a84ced30e97bde5
+Description: Retry FaceID when failed to recognize.
+Name: PearlRetry
+Author: gilshahar7
 
 Package: com.lema.wolf
 Architecture: iphoneos-arm64
