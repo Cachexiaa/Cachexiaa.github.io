@@ -497,6 +497,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm
+Version: 5.1b2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16192
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.dvntm.ytlite_5.1b2_iphoneos-arm.deb
+Size: 6127910
+MD5sum: e13bdd21dde61462657d734d6e0b0975
+SHA1: ddee61e404b8a8f880aaca0a36baf9fcbe95b8f9
+SHA256: 11692806385ac7ddad5f20eb5a92e4d559fbda9809eddc8abba57222bb59bf89
+SHA512: b2f8890f65ec2190241de0d25509fdf800304b079a94b98f3395d7cf120afdbfae827fcece40c6994f51f831dcc843b09c7b40257a1b0cb9d407bc45907de39d
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: com.fouadraheb.appdata
 Architecture: iphoneos-arm
 Version: 1.4.3
@@ -692,6 +711,24 @@ Name: Axon
 Author: Nepeta & Baw Appie
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fme.nepeta.axon-icon-icon%402x.png.png&s=180x180&f=webp
 
+Package: com.netskao.appdata
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 23032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootful/com.netskao.appdata_1.4.1_iphoneos-arm.deb
+Size: 5070196
+MD5sum: d68120bb94424b18a0eb1bf0b2ac969c
+SHA1: 07207e7ee10f917960d3b4ca4c38bc6d0971b078
+SHA256: 8ec9fc85faf492815ebe4502fa5d97574ef4460d6f504de0f71a064e2daece1c
+SHA512: d82b1509615b7476a7de654720f9b7ce0501305ffc56873f9d9b161ed701e0f04a0322be86931df72c55aefc98bc9dc776a7f52b9725b74cff230b21e35148bf
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+Icon: https://avatars.githubusercontent.com/u/6962327?v=4
+
 Package: com.netskao.dumpdecrypter
 Architecture: iphoneos-arm
 Version: 1.4-4
@@ -780,6 +817,24 @@ Description: Small Notification Banners. Support iOS15+
 Name: SmallBanners
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
+
+Package: com.netskao.twitternoads
+Architecture: iphoneos-arm
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootful/com.netskao.twitternoads_1.1-1_iphoneos-arm.deb
+Size: 2544
+MD5sum: f2247b9185de12334d013eff4824e2b1
+SHA1: 2bc5b8dde25d0dc81163ed634799675772e6d6cf
+SHA256: 7ab75c2796ff95549b2a81599e5984ffd71b9f56b80247dd866b2bf34239393d
+SHA512: 8286b73ef32c78e995d2bc629580f5501efc14885c2df15295d51e1d378157345fd7168597afc2fdc1fdac018ec66debcf6a61e644bafb05f391aaa40c356431
+Description: Twitter removes ads from data stream. Tested on version 10.64.1 only
+Name: Twitter NoAds
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 
 Package: com.noisyflake.velvet2
 Architecture: iphoneos-arm
@@ -896,6 +951,25 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Name: MobileMeadow Reborn
 Author: pkgFiles
 
+Package: com.pxcex.autoscroll
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/Rootful/com.pxcex.autoscroll_1.0.0_iphoneos-arm.deb
+Size: 5008
+MD5sum: 4af6e612b1ed8333d93a0d00d7a57181
+SHA1: a006053c460577d70c4f7529e5b4e8c04dea28f5
+SHA256: e7147b17ee4fde45d0a0707f95471793db0c1de10df5a2e2bab27d0afa462343
+SHA512: 19a133a3ad505afa2eee4e69bb1b994767eb9935e2e6397fd939d599fcc3091f0cb60095c3d3a56484a6af2922058f2ea2be27e84ed48f6a33d26818de5cdae5
+Description: Smart Auto Scroll & Faster Scrolling on all app.
+Name: AutoScroll
+Author: pxcex
+Depiction: https://d.plutorepo.com/posts/AutoScroll
+Icon: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/icon.png
+
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm
 Version: 1.0
@@ -960,6 +1034,28 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm
+Version: 1.0.10~beta4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 552
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Rootful/com.rpetrich.rocketbootstrap_1.0.10.beta4_iphoneos-arm.deb
+Size: 22398
+MD5sum: fc07621fec870ef08f74f58aa5088a33
+SHA1: 8dd1b2b4506221c802e6d08658a33ab735f84eb3
+SHA256: 75bfd8f03f51d9ac4016bf2db14bf075e36c842c32b78b96f840aa3ccb5b6500
+SHA512: 9913882131964d2cf7a485241b6be7590b6ff82b5a2377e823043e4fcf224f4e15394c6ecc6cb4b1486e1cd92c0d420e9b626fc0652099adb4bdcdee30a35ff7
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
 
 Package: com.sinfool.youtopia
 Architecture: iphoneos-arm64
@@ -1776,6 +1872,25 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
 
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64
+Version: 5.1b2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16192
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.dvntm.ytlite_5.1b2_iphoneos-arm64.deb
+Size: 6132838
+MD5sum: 9e4ca87200bd79a87646e8281d696221
+SHA1: 1f50516cf299243573ad1ee3cfc0fbbdcb55e7ef
+SHA256: 1149135505ad6c6b64593d8d0eb7b8f920fa7ae285b9963d51d1e0622267716c
+SHA512: d2e3458a73ae1b20c40b4f1cf4884cd0fcbf3e2bad7fcf90e3c43a62fc0cbff5edb8b73fa90c045a8ac17ef2a1a0aafceba929019271189f42f624f50424038d
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/icons/main/ytlite.json
+
 Package: com.ethxnn88.visibleisland
 Architecture: iphoneos-arm64
 Version: 1.1-b1
@@ -1988,6 +2103,24 @@ Name: Axon
 Author: Nepeta & Baw Appie
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fi.repo.co.kr%2Fimages%2Fme.nepeta.axon-icon-icon%402x.png.png&s=180x180&f=webp
 
+Package: com.netskao.appdata
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Netskoa
+Installed-Size: 23032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debians/Rootless/com.netskao.appdata_1.4.1_iphoneos-arm64.deb
+Size: 5069824
+MD5sum: fde04df0a730b2e411b1abaa31d79679
+SHA1: 9eeb45e021bd8d36e441deb080d4018dd1e1b846
+SHA256: 3a2550e8b82b744dfef8f8236c40abd8b9c60c37c2130136e8b05f43519b929d
+SHA512: 7a97155b790644f0b40df49a93647aad55e05712e1bcb50630a6fb5b59a1f6b3c54e67c648c4f1bd8b6f291751c4aed2ca6c170c30365786646b6efcac2c0319
+Description: View & Manage Applications Data from your Home Screen
+Name: AppData
+Author: Fouad Raheb
+Icon: https://avatars.githubusercontent.com/u/6962327?v=4
+
 Package: com.netskao.dumpdecrypter
 Architecture: iphoneos-arm64
 Version: 1.4-4
@@ -2077,6 +2210,24 @@ Description: Small Notification Banners. Support iOS15+
 Name: SmallBanners
 Author: Netskao
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Fcydia.saurik.com%2Ficon%2Fcom.alexzielenski.tinybar.png&s=180x180&f=webp
+
+Package: com.netskao.twitternoads
+Architecture: iphoneos-arm64
+Version: 1.1-1
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 72
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debians/Rootless/com.netskao.twitternoads_1.1-1_iphoneos-arm64.deb
+Size: 2564
+MD5sum: 0b32665a23ac1f9ce2c6281de64f4a06
+SHA1: 0eecc0a465276fbd667bd9d4db10ead0e022c0de
+SHA256: 5255a691276961c3392c62ef00da36856f4e5c56d05e15d8fbf9b09a15b776ae
+SHA512: 229f29eae259d1453413a552d8a2164ed884ce81c3ab2a473eb89833284ba1e99913f91274100df222ec7babbc5d10b16881731b1325d0449a625269eaf5fd3c
+Description: Twitter removes ads from data stream. Tested on version 10.64.1 only
+Name: Twitter NoAds
+Author: Netskao
+Icon: https://TrollStoreX.Github.io/sileodepiction/TwitterNoAds/icon.png
 
 Package: com.noisyflake.velvet2
 Architecture: iphoneos-arm64
@@ -2193,17 +2344,37 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Name: MobileMeadow Reborn
 Author: pkgFiles
 
+Package: com.pxcex.autoscroll
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: Tweaks
+Maintainer: pxcex
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/Rootless/com.pxcex.autoscroll_1.0.0_iphoneos-arm64.deb
+Size: 5344
+MD5sum: e44a420212db203ebbbe7d6ae465902c
+SHA1: 82e8da2e8befbca2e4a5459b17456136ed4814dd
+SHA256: c30716031707b482e2d7e37383ae3ec7269c9b0cb889b7f01e0cd82fd8e75440
+SHA512: d8a5b9eb17c7cc44e19ea78f3fe2c3d085f7acb59117c5edb8efa547ae7e8f013aed979051be4980c4638dade5eaf5c7a03c12614828a34e9983dd95a9fab8f3
+Description: Smart Auto Scroll & Faster Scrolling on all app.
+Name: AutoScroll
+Author: pxcex
+Depiction: https://d.plutorepo.com/posts/AutoScroll
+Icon: https://TrollStoreX.Github.io/sileodepiction/AutoScroll/icon.png
+
 Package: com.rahwan3d.visionkeysaurora
 Architecture: iphoneos-arm64
 Version: 1.0
+Section: Themes
 Maintainer: rahwan3d
 Depends: com.spark.laetus
 Filename: ./debians/Rootless/com.rahwan3d.visionkeysaurora_1.0_iphoneos-arm64.deb
-Size: 511172
-MD5sum: fd4803ddc7c87c8c0e761529f0994032
-SHA1: d8f770ec63146dfac914ab815bb5ce6d95b284c2
-SHA256: 5337e25b07483b43bda6482bb5378c6d432d40de7147d860a7d0df297ba85104
-SHA512: 64c3e354a8e9565653f1d5bd3c125d16c6d06841005ccbbd3aaef48d68414e81589a41ec221176a1cfc99a8afeb08dabd57d20f467ff1b133b19d6b2586e1db3
+Size: 511260
+MD5sum: 5598d469b36903284d7ad426d2b150a0
+SHA1: b3338ac7dc8810a5181aa7473841776125c50938
+SHA256: a5c71826aa39fec320b23c5a26642f3c9c0688cdd608bd898489af6beed1a9a6
+SHA512: 302c6cba391584ab68f96ec67667a76c94bd5e238224004befd73d3d0a7135ad30dfe69d3093ccf7e53e3f367c4ce3871334f6d852b4f64194cde9cb2a6796d7
 Description: A beautiful Dark Blue theme for Laetus .
 Name: VisionKeys Aurora
 Author: rahwan3d
@@ -2212,14 +2383,15 @@ Icon: https://drive.google.com/uc?id=1I-FxxB-kqjMjUNxu6Jo0hWVOmURk8apz
 Package: com.rahwan3d.visionkeyscelestia
 Architecture: iphoneos-arm64
 Version: 1.0
+Section: Themes
 Maintainer: rahwan3d
 Depends: com.spark.laetus
 Filename: ./debians/Rootless/com.rahwan3d.visionkeyscelestia_1.0_iphoneos-arm64.deb
-Size: 968040
-MD5sum: 7ae123e6ea773ad4f4909c3aa0b746f9
-SHA1: eda329d076f48a5cde63e02f17ce3171c3d5f897
-SHA256: 807fee187d514b76f958d29faad61cfe1a67bbe2ac32fa441781f6e7d4dad6bc
-SHA512: 5a4253ef9c0919a5c5c701864a29f1cb8ad85f1feb9792895539ee0b5c856787ea665bcc51ff9f09752816f7d8efac9d043233206e3242f7fca6f016c7434117
+Size: 967984
+MD5sum: fed0c4d73bc6442bac1a15290cfdd502
+SHA1: cf6f3fadf64206ace050319949dc7f49f231cd09
+SHA256: d7465ad882b4dc26712effccc83a76006ede4bf89f33dc183b9a425c5cca209a
+SHA512: 493066d503bd8c5e822921295072086c3f7a749dfac4e7e7b97afe5ca9d4829bc4939d96f0895c3558463d335bf45ff525876f7981197b46f7ae54747ac6867f
 Description: A beautiful Light mode theme for Laetus .
 Name: VisionKeys Celestia
 Author: rahwan3d
@@ -2228,14 +2400,15 @@ Icon: https://drive.google.com/uc?id=1D5cSm9W7UNEOKCBUQB5LRJy5N2HEEZ7O
 Package: com.rahwan3d.visionkeysobsidian
 Architecture: iphoneos-arm64
 Version: 1.0
+Section: Themes
 Maintainer: rahwan3d
 Depends: com.spark.laetus
 Filename: ./debians/Rootless/com.rahwan3d.visionkeysobsidian_1.0_iphoneos-arm64.deb
-Size: 291576
-MD5sum: 597c5f7690532e0c9fedc24b107d5a5e
-SHA1: 1e4cc983674a73a0fa0da1424fccdae4eb3ad215
-SHA256: 760802d628eaaab43dc01cb45f6b5223d76a8ed32fef42f02deb633508f4aac2
-SHA512: 2f60c55c3d2909175f9208d50c31f27c1751578b36ced1021fe50b1d49479fd8af132a721e3b4f2faf63e8c8fc1e27537f74ed364549ce614b552339255a44d6
+Size: 291584
+MD5sum: 339299b8357e8a51332575dfc7644f4d
+SHA1: 2d6553d82760cbe379a4d10a05e6c27acc6bcf69
+SHA256: 10be6dd526b4e35e9974257f07ac2a72830f1d1ea97ebb657533f15f96b7669b
+SHA512: 6b6a2c5144d36cc44d9591246984e87e092e89c17275f54c2eadbaf4415fcba96fe6209aa092f50e5685dbdb29d74a1d25f506c35ae9eeb79810c0c7452a1244
 Description: A beautiful Dark mode theme for Laetus .
 Name: VisionKeys Obsidian
 Author: rahwan3d
@@ -2257,6 +2430,28 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
 Icon: https://api.ios-repo-updates.com/1.0/image/?u=https%3A%2F%2Frepo-archive-cdn.dynastic.co%2F792656d39dd4546c53411e48e35a9afa.png_120.png&s=150x150&f=webp
+
+Package: com.rpetrich.rocketbootstrap
+Architecture: iphoneos-arm64
+Version: 1.0.10~beta4
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 532
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./debians/Rootless/com.rpetrich.rocketbootstrap_1.0.10.beta4_iphoneos-arm64.deb
+Size: 19380
+MD5sum: 8573198183a0186a9aa70067ec7ea226
+SHA1: d4bac0d682bc2f6c5e7132bbec357cf18629fb4f
+SHA256: f765e3b95d6e5bf01d71d938ac220ef578d25f6fdfe02a5e65cf2a21da2ef0b5
+SHA512: 6675f91a5f8666947f6872d1127cf15ea75c5ca550ae3953fa59a0bebae29502207bf8c04f53b0ab61ba438331456c2701c49ca9d0095f87d4fddcc2c44d993e
+Homepage: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Description: Support library allowing tweaks to communicate with sandboxed processes
+Tag: purpose::extension, role::developer
+Name: RocketBootstrap
+Depiction: https://www.rpetrich.com/cydia/rocketbootstrap/beta/
+Author: Ryan Petrich <rpetrich+rocketbootstrap@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
 
 Package: com.sinfool.youtopia
 Architecture: iphoneos-arm64
