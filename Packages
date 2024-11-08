@@ -1,5 +1,22 @@
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootful/com.fadh1l.uiswitches_1.0.1_iphoneos-arm.deb
+Size: 1347372
+MD5sum: 216dd93edd04c984a135bb415b35e5f9
+SHA1: 2ce50367acb9801a729eec311a6ce0568b8dacb4
+SHA256: 6bcb415afd176c27d6736a14f0c2a45dbd758b69aa37bd398b6cf7821b784677
+SHA512: 6965bf5a44b4f3f1ef708cd817fed92d1635ac0f5f4276b3948af157ec160b8f38cee4f3b71bcd6a62f8c147536397e4849742a04cae388365230dbaf2fce422
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
+Name: UI Switches
+Author: Fadh1l
+Icon: file:///var/jb/Library/Themes/Dopam1neEllekitSwitch.theme/Icon.png
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Themes
 Maintainer: Fadh1l
@@ -10,6 +27,23 @@ MD5sum: ae0582355e26f6ae5a1390f0448584cb
 SHA1: 988358c8353a4895836631039f53d7cf32601ba0
 SHA256: ba8b93d331d46583249a72ec0dfd25f47de016bbbf20c8ac04687f1095d8ccce
 SHA512: 3b864a33931b249fac8de034601a390ed1b6d6e104ddb5df29a163864068ad87875985bb6f0f3d4b0f5376b1f5cf707e3501e8bc1defc69fc8a5ec0e01f6b0a2
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
+Name: UI Switches
+Author: Fadh1l
+Icon: file:///var/jb/Library/Themes/Dopam1neEllekitSwitch.theme/Icon.png
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootless/com.fadh1l.uiswitches_1.0.1_iphoneos-arm64.deb
+Size: 1347376
+MD5sum: 6ef9910eb03507cdbb973527afca2313
+SHA1: f54c8f2203daacc0a5e8bc9e4875c9f30bff318b
+SHA256: abd71fdf35acba013edc0da7fb5d3ca4fbfab685c4a9d376fb8ffae0e48cc545
+SHA512: d6b64f7a96bb03edf0bcef35a3c1130183073747c0594aa921db5b0c0f6ab46e12943f662f5ecd9abdeb425d18a7da6ebeaaea5937e58b8c805dea73fae2201f
 Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
 Name: UI Switches
 Author: Fadh1l
