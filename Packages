@@ -17,6 +17,23 @@ Icon: file:///var/jb/Library/Themes/Dopam1neEllekitSwitch.theme/Icon.png
 
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootful/com.fadh1l.uiswitches_1.0.2_iphoneos-arm.deb
+Size: 1347424
+MD5sum: a545150d69e20bac0507408a3770b332
+SHA1: a599edba2a3c64dc48645ec82965da8b19aea21e
+SHA256: d41092589b2f44921cb9b23dd7af0258adb020673750688c8c7ec9be14df259d
+SHA512: 265cc2d25f8109df4e5b101fe1857a9e94f55a316b260b628ddd2179a8933df7ed54747a769544a6b4caeb960d96acd266a406fbf0723863dad7c16ad099a0c0
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/Cachexiaa/Cachexiaa.github.io/blob/main/depictions/web/com.cachexiaa.sample/screenshots/UISwitches.png?raw=true
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Themes
 Maintainer: Fadh1l
@@ -48,6 +65,23 @@ Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switch
 Name: UI Switches
 Author: Fadh1l
 Icon: file:///var/jb/Library/Themes/Dopam1neEllekitSwitch.theme/Icon.png
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm64
+Version: 1.0.2
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootless/com.fadh1l.uiswitches_1.0.2_iphoneos-arm64.deb
+Size: 1347424
+MD5sum: 958674951b5bdec2bb1d62a8c1245c61
+SHA1: 24f15ac520ac5c8514e5eba518d5867223f5ccbc
+SHA256: 4bd132ae5089248b7f4f6cef66d5055497ea302347ab780e135483a0791f4ce4
+SHA512: 93d7b2ce0c9422897e419dfe3e31b1f0d0c68a08b613647d047ed63e879de2f9762a7d0953a9c0bbd41b3e4fb81172b2311682b4dbd6ac771660b5be0642cf3b
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/Cachexiaa/Cachexiaa.github.io/blob/main/depictions/web/com.cachexiaa.sample/screenshots/UISwitches.png?raw=true
 
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm64
