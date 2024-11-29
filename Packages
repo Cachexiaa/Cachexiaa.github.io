@@ -118,6 +118,23 @@ Author: Fadh1l
 Icon: file:///var/jb/Library/Themes/Dopam1neEllekitSwitch.theme/Icon.png
 
 Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootful/com.fadh1l.uiswitches_1.1_iphoneos-arm.deb
+Size: 2269812
+MD5sum: daa27a0ee52f792297492ed281229a1e
+SHA1: baf3378506967aeef3667fb94b4f218b18d381da
+SHA256: 2c1b01d52e0fe181fc83c6c2709941b0ed1462693f650059c5cb0e49ed7b952c
+SHA512: 0463fd489c767c24b39dcfd3e0c31003806478e9a8868e542d0263f942a3968b9c207495eb7ed7b8af44a23cc67b81e262b59b24ec14bcc6a515adf453dc4435
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.pxcex.autoscrolll/screenshots/UISwitches.png?raw=true
+
+Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm64
 Version: 1.0.1
 Section: Themes
@@ -235,4 +252,21 @@ Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switch
 Name: UI Switches
 Author: Fadh1l
 Icon: file:///var/jb/Library/Themes/Dopam1neEllekitSwitch.theme/Icon.png
+
+Package: com.fadh1l.uiswitches
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Themes
+Maintainer: Fadh1l
+Depends: com.spark.snowboard.ui, firmware (>= 12.0)
+Filename: ./debians/Rootless/com.fadh1l.uiswitches_1.1_iphoneos-arm64.deb
+Size: 2269884
+MD5sum: 13a389c1b2269fd970b335fa9b96a96c
+SHA1: 21af7dc224b6b418fd11ba74d2f73677a58671f3
+SHA256: 24b616fd684e399e6d5b203833a2eeee306bfb5a193422f54eb5a0bc1dce529c
+SHA512: 17af512d0804777f90010d2e65cb5524dcf4d7acc7b4a6601eef52c0dd261e57ff44a43c882778a445b381403ced110745443b98feb08434a105aa1b0bc718f3
+Description: UI Switches for rootless Jailbreaks . Replace the ugly apple switches with a perfectly done jailbreak logos switches , include Dopam1neSwitches - RoothideSwitches - OdysseySwitches - Unc0verSwitches - ElectraSwitches
+Name: UI Switches
+Author: Fadh1l
+Icon: https://github.com/kernelrw/kernelrw.github.io/blob/main/depictions/web/com.pxcex.autoscrolll/screenshots/UISwitches.png?raw=true
 
