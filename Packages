@@ -149,6 +149,21 @@ Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7
 Name: Checkm8 Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
 
+Package: com.yourepo.peterpan.checkra1nrespring
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootful/com.yourepo.peterpan.checkra1nrespring_0.0.1_iphoneos-arm.deb
+Size: 117824
+MD5sum: 013ada6ff5cfa93c2f2e37c0ccfa2c76
+SHA1: 76ebef73ff3a69876507f8c28eae70f1f30b4db7
+SHA256: 399067e25760e59febf50a5e512ee0654ddb4f5dcce70fad24778f3fcb48610f
+SHA512: 79eaca228bea59683908b839e81c148a39099a1c64a44d6bc2aabddbe9f7fc63fa96141d04716a493a06f961137192a57f8feca3e8e71565b8637498f9182780
+Description: Checkra1n Respring ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkra1n Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
+
 Package: com.fadh1l.uiswitches
 Architecture: iphoneos-arm64
 Version: 1.0.1
@@ -298,5 +313,20 @@ SHA256: af84db36cb752010c03b62800384c1dc4d6d869158658e72063b095b0fce4ef4
 SHA512: a92a1c2ac6abebafccf5a8322a98a18dfbcfa758b407c87284af3b6c609cdc988060643cede75bcdca9848c660d56f69ebd07ad4f89a13d13cedc7b5dc148e6d
 Description: A Checkm8 Respring I converted for fun ; supports iOS14.0 ~ iOS16.7.10 .
 Name: Checkm8 Respring Animation
+Author: Peter Pan <mike130784@gmail.com>
+
+Package: com.yourepo.peterpan.checkra1nrespring
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Themes
+Maintainer: Peter Pan <mike130784@gmail.com>
+Filename: ./debians/Rootless/com.yourepo.peterpan.checkra1nrespring_0.0.1_iphoneos-arm64.deb
+Size: 118028
+MD5sum: baa4da53e72e396ab644de266bf7a35d
+SHA1: c23b5ada42fc217b56b00be6baf1d97c87c0cd17
+SHA256: 808549d186343b30284b903155eddc4e95de87b00c1cc86d8f33f01f1ea6f01e
+SHA512: db3acb3cb2670ba52783ba425580a6c70f9a81730b8f72edec98e29c44822679c9d66b3ed0c3baa573905839fe7324a58ca706c34b64c98a75b22188abb5eec3
+Description: Checkra1n Respring ; supports iOS14.0 ~ iOS16.7.10 .
+Name: Checkra1n Respring Animation
 Author: Peter Pan <mike130784@gmail.com>
 
